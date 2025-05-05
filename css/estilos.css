@@ -69,6 +69,13 @@ img{
     margin-top: 15px;
     border-radius: 8px;
 }
+
+.img-tarjeta{
+    width: 30%;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
 /* Estilos de las tarjetas de servicios */
 .tarjetas{
     display: flex;
